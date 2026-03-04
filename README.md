@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hey, I'm Dilpreet 👋
 
-<!--
-**dilpreet579/dilpreet579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm a Full Stack AI Engineer. I build scalable web applications and intelligent AI models.**
 
-Here are some ideas to get you started:
+passionate about merging machine learning with user-centric development to create impactful digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently in new delhi, india.
+
+always looking for exciting opportunities, so feel free to drop me a message.
+
+[website](https://www.dp100x.me) •
+[linkedin](https://www.linkedin.com/in/singhdilpreet8/) •
+[mail](mailto:dilpreet082023@gmail.com) •
+[twitter](https://x.com/dp100x) 
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=dilpreet579&show_icons=true&theme=dark&hide_border=true" alt="Dilpreet's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dilpreet579&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
