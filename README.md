@@ -15,6 +15,5 @@ always looking for exciting opportunities, so feel free to drop me a message.
 
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=dilpreet579&show_icons=true&theme=dark&hide_border=true" alt="Dilpreet's GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dilpreet579&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
