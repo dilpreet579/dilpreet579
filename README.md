@@ -13,7 +13,7 @@ always looking for exciting opportunities, so feel free to drop me a message.
 [mail](mailto:dilpreet082023@gmail.com) •
 [twitter](https://x.com/dp100x) 
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=dilpreet579&show_icons=true&theme=dark&hide_border=true" alt="Dilpreet's GitHub Stats" />
-</p>
+</p> -->
 
