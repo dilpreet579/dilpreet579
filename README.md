@@ -5,7 +5,7 @@
 capturing the world as it is.<br>
 building things that make it a little better.
 
-currently in New Delhi, India.
+currently in new delhi, india.
 
 always looking for exciting opportunities, so feel free to drop me a message.
 
