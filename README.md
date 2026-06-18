@@ -1,12 +1,13 @@
 ### Hey, I'm Dilpreet 👋
 
-**I'm a Full Stack AI Engineer. I build scalable web applications and intelligent AI models.**
+**I'm a Software Engineer and Photographer. I build scalable products that solve real-world problems.**
 
-passionate about merging machine learning with user-centric development to create impactful digital experiences.
+Capturing the world as it is. 
+Building things that make it a little better.
 
-currently in new delhi, india.
+Currently in New Delhi, India.
 
-always looking for exciting opportunities, so feel free to drop me a message.
+Always looking for exciting opportunities, so feel free to drop me a message.
 
 [website](https://www.dp100x.me) •
 [linkedin](https://www.linkedin.com/in/singhdilpreet8/) •
